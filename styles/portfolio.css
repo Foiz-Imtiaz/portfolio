@@ -70,6 +70,7 @@ nav .menu{
     display: flex;
     list-style-type: none;
     gap:51px;
+    align-items: center;
 }
 nav .menu a {
     font-size: 20px;
